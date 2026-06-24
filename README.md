@@ -1,4 +1,4 @@
-Customer Experience Intelligence: Mobile App Review Analytics
+Customer Experience Intelligence: Mobile App Review Analytics.
 
 Project Overview
 
